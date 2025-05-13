@@ -1,0 +1,23 @@
+{
+  "aviarios": [
+    { "titulo": "LIMPEZA DO COLCHO", "caminho": "/aviarios/colcho" },
+    { "titulo": "LIMPEZA DA ESTEIRA", "caminho": "/aviarios/esteira" },
+    { "titulo": "ALIMENTAÇÃO", "caminho": "/aviarios/alimentacao" },
+    { "titulo": "VENTILAÇÃO", "caminho": "/aviarios/ventilacao" },
+    { "titulo": "COLETA DE OVOS", "caminho": "/aviarios/coleta" },
+    { "titulo": "HIGIENIZAÇÃO", "caminho": "/aviarios/higienizacao" }
+  ],
+  "criaRecria": [
+    { "titulo": "DENSIDADE", "caminho": "/cria-recria/densidade" },
+    { "titulo": "ALIMENTAÇÃO", "caminho": "/cria-recria/alimentacao" },
+    { "titulo": "PESAGEM", "caminho": "/cria-recria/pesagem" }
+  ],
+  "cpo": [
+    { "titulo": "DESCARTE", "caminho": "/cpo/descarte" },
+    { "titulo": "CLASSIFICAÇÃO", "caminho": "/cpo/classificacao" }
+  ],
+  "esterco": [
+    { "titulo": "LIMPEZA", "caminho": "/esterco/limpeza" },
+    { "titulo": "ARMAZENAMENTO", "caminho": "/esterco/armazenamento" }
+  ]
+}
